@@ -7,4 +7,4 @@ def is_prime(n):
 
 for number in range(2, 40):
     if is_prime(number):
-        print(number, "is a prime!")
+        print number, "is a prime!"

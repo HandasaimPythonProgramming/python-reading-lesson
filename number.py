@@ -1,4 +1,4 @@
 
-print("Please enter a number:")
-number = int(input())
-print(number * number)
+print "Please enter a number:"
+number = int(raw_input())
+print number * number

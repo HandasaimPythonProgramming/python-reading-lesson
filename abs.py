@@ -4,6 +4,6 @@ def absolute(x):
         return -x
     return x
 
-print("Please enter a number:")
-number = int(input())
-print(absolute(number))
+print "Please enter a number:"
+number = int(raw_input())
+print absolute(number)

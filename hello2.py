@@ -1,4 +1,4 @@
 
-print("Please your name:")
-name = input()
-print("Hello", name, "!", "Welcome!")
+print "Please your name:"
+name = raw_input()
+print "Hello", name, "!", "Welcome!"
