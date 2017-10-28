@@ -4,7 +4,7 @@
 This repository contains several python programs, which are designed to develop code literacy in students with no prior coding experience.
 
 ## Instructions
-For each python file, please read the code, run it, and write down what does the code do when executed. Please follow the *Order of Excercises*.
+For each python file, please read the code, run it, and write down what does the code do when executed. Please follow the *Order of Exercises*.
 
 If you are uncertain what something in the code do, try running it in interactive mode, or google it.
 
