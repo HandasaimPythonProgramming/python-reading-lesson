@@ -28,7 +28,7 @@ After reading all files, try writing simple scripts similar to those in the give
 
 ## Additional Exercises
 * Write a script that inputs the user's name, and compliments the user. For example: for input "Daniel", the software will print "Daniel, you look great today!" (hint: use hello2.py)
-* Write a script that inputs 3 numbers and outputs their average (hint: use plus.py)
+* Write a script that inputs 3 numbers and outputs their average (hint: use number.py and plus.py)
 * Write a script that inputs a student's grade and tells him if he passed of failed. We say that a student passed if his grade is greater then 55 (hint: use abs.py and login.py)
 * Write a script that inputs 3 numbers (a, b, c) and solves the quadratic equation ax<sup>2</sup> + bx + c = 0 (hint: use pythagoras.py)
 * Write a script that prints an hourglass figure (hint: use diamond.py)

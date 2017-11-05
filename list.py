@@ -2,7 +2,7 @@
 lst = ["hello", 4, 2.76, False]
 
 for item in lst:
-    print lst
+    print item
 
 print lst
 print len(lst)
