@@ -1,3 +1,3 @@
 
 
-print "Very Hello World!"
+print "Hello World!"
